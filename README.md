@@ -12,7 +12,7 @@ Requirements
 Test on CentOS 6.3
 ==================
 
-- install vagrant and VirtualBox before following commands
+install vagrant and VirtualBox before following commands
 
     mkdir ~/vagrant-test-centos63
     cd ~/vagrant-test-centos63
@@ -36,7 +36,7 @@ Test on CentOS 6.3
 Test on Ubuntu 12.04
 =====================
 
-- install vagrant and VirtualBox before following commands
+install vagrant and VirtualBox before following commands
 
     mkdir ~/vagrant-test-ubuntu1204
     cd ~/vagrant-test-ubuntu1204
